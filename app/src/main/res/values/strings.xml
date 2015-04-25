@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyntraHack</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result_display_page">ResultDisplayPage</string>
+    <string name="search_query">Name</string>
+    <string name="button_submit">Search Phone Number</string>
+    <string name="title_activity_my_list_view">myListView</string>
+    <string name="defaultResponse">[ { department: \"Engineering\", emailId: \"\", phoneNum: \"8884190588\", id: \"45443b01-6322-42d2-96b3-397f09d20a60\", name: \"Paroksh Saxena\" }, { department: \"Engineering\", emailId: \"\", phoneNum: \"9008115084\", id: \"bf31ddad-cd3f-438e-861c-55679770e4a1\", name: \"Kshitij Srivastava\" }, { department: \"Engineering\", emailId: \"\", phoneNum: \"8867759948\", id: \"7cb7d5c7-3f05-42e8-99a6-e95f08c3e70b\", name: \"Shreya Singh\" }, { department: \"Engineering\", emailId: \"\", phoneNum: \"9620988366\", id: \"febda757-fb70-4380-8c8a-59a622ee7d3c\", name: \"Tejashree Aher\" }, { department: \"Engineering\", emailId: \"\", phoneNum: \"9980905854\", id: \"e812ed27-1ecb-44a3-8e4c-f30e95145f49\", name: \"Rajan Verma\" }, { department: \"Engineering\", emailId: \"\", phoneNum: \"9036323455\", id: \"19d1144e-68c7-4134-b9d9-6b5d39949938\", name: \"Ashutosh Panigrahi\" }, { department: \"Engineering\", emailId: \"\", phoneNum: \"9686175919\", id: \"5d50ba5a-3fbf-41f1-96a1-dacca5a62056\", name: \"Vinita Sharma\" }, { department: \"Engineering\", emailId: \"\", phoneNum: \"9632724284\", id: \"30ed173d-b26e-4a2e-a2e4-3b778c76b44a\", name: \"Sanjay Yadav\" }, { department: \"Engineering\", emailId: \"\", phoneNum: \"9900123464\", id: \"34b727e7-54db-47e5-a4c6-21af9cdbc64f\", name: \"Amit Rana\" }, { department: \"Engineering\", emailId: \"\", phoneNum: \"9535145468\", id: \"ed8f74cc-24c0-41ef-9112-756cff24b117\", name: \"Sachin Kale\" } ]</string>
+</resources>
